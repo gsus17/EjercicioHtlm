@@ -50,6 +50,7 @@ table {
 html, body {
 	
 	color:#282828;
+	height: 100%;
 }
 
 header{
@@ -59,5 +60,24 @@ header{
 
 header img {
 
-	width: 150px;
+	width: 250px;
+	display: block;
+}
+
+nav ul li {
+	color: #ffffff; 
+	display: inline;
+}
+
+.home{
+	background-image: url('assets/bg.jpg');
+	height: 100%;
+	text-align: center;
+	color: #ffffff;
+
+}
+
+h1 {
+
+	font-size: 60px;
 }
