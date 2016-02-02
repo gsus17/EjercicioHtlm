@@ -1,0 +1,26 @@
+
+
+header, footer {
+
+	background-color: #282828;
+	position: absolute;
+	width: 100%;
+}
+
+header img {
+
+	width: 250px;
+	display: block;
+}
+
+footer{
+box-sizing:border-box;
+}
+
+footer, a {
+	color: #ffffff;
+	text-decoration: none;
+	padding: 20px 0;
+
+
+}
